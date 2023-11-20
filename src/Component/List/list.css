@@ -1,0 +1,23 @@
+.list {
+  padding: 25px;
+  margin-left: 40px;
+  text-align: left;
+ 
+  
+  
+  /* Align the heading on the left */
+}
+
+ .listTitle {
+  
+  margin-bottom: 50px; /* Add some space below the heading */
+} 
+
+.container {
+  display: flex;
+  
+  justify-content: space-between;
+   /* Adjust the right margin for space between images */
+}
+
+

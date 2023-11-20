@@ -1,0 +1,51 @@
+.main-footer{
+    
+    
+        
+        
+        
+    }
+
+.row{
+    position: absolute;
+    margin-left: 230px;
+    /* display: flex;
+    margin-top: 50px;
+    margin-left: 225px; */
+    
+}
+.row p{
+    font-size:xx-large;
+    color: grey;
+}
+.tl{
+    
+    display: flex;
+    position: relative;
+    top: 80px;
+    margin-left: 120px;
+    
+}
+
+.list ul li{
+    
+    color: gray;
+    list-style: none;
+    justify-content: space-between;  
+    padding: 5px;  
+}
+
+.bt{
+   position: relative;
+    margin-top:  50px;
+    text-align: left;
+    margin-left: 280px;
+    color: gray;
+    
+}
+.bt button{
+    background: transparent;
+    color: gray;
+    border: 1px solid gray;
+    
+}
