@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/netflix-homepage/static/css/main.f79a0182.css",
+    "main.js": "/netflix-homepage/static/js/main.c4bbbd96.js",
+    "static/js/787.caaea2da.chunk.js": "/netflix-homepage/static/js/787.caaea2da.chunk.js",
+    "static/media/Title.png": "/netflix-homepage/static/media/Title.ae5d22442c3ba66e60d8.png",
+    "static/media/section35.png": "/netflix-homepage/static/media/section35.dc1ce9e4beb69720fb80.png",
+    "static/media/section32.png": "/netflix-homepage/static/media/section32.424dfaef8bddd8d25650.png",
+    "static/media/section11.png": "/netflix-homepage/static/media/section11.7afedaa484edf6ee8eb4.png",
+    "static/media/section14.png": "/netflix-homepage/static/media/section14.9be9e36434b816e4440f.png",
+    "static/media/section15.png": "/netflix-homepage/static/media/section15.b0c957f38dee6bf5957b.png",
+    "static/media/section44.png": "/netflix-homepage/static/media/section44.ba834de55843f0f18fe6.png",
+    "static/media/section33.png": "/netflix-homepage/static/media/section33.016bd957d93ee539c67a.png",
+    "static/media/section42.png": "/netflix-homepage/static/media/section42.113fac62d0afa90b41f4.png",
+    "static/media/section45.png": "/netflix-homepage/static/media/section45.ad836716755f87fe46b5.png",
+    "static/media/section34.png": "/netflix-homepage/static/media/section34.7084833e465a8d9434a6.png",
+    "static/media/section13.png": "/netflix-homepage/static/media/section13.850a6043928c5b7305a6.png",
+    "static/media/section43.png": "/netflix-homepage/static/media/section43.0a67a5cf095970e0c8c4.png",
+    "static/media/section41.png": "/netflix-homepage/static/media/section41.ca8fe67892d8dd439873.png",
+    "static/media/section12.png": "/netflix-homepage/static/media/section12.ce09175e329fc5f82ccf.png",
+    "static/media/section24.png": "/netflix-homepage/static/media/section24.622258d32578a8f64a4f.png",
+    "static/media/section23.png": "/netflix-homepage/static/media/section23.5a958480d51dd3ddd54a.png",
+    "static/media/section25.png": "/netflix-homepage/static/media/section25.102c78832f3a8553427f.png",
+    "static/media/section21.png": "/netflix-homepage/static/media/section21.62d88462023ffdb49702.png",
+    "static/media/section22.png": "/netflix-homepage/static/media/section22.dfef51da60eb4ecad812.png",
+    "static/media/section31.png": "/netflix-homepage/static/media/section31.05184e12893cdda19e57.png",
+    "static/media/logo.svg": "/netflix-homepage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/netflix-homepage/index.html",
+    "main.f79a0182.css.map": "/netflix-homepage/static/css/main.f79a0182.css.map",
+    "main.c4bbbd96.js.map": "/netflix-homepage/static/js/main.c4bbbd96.js.map",
+    "787.caaea2da.chunk.js.map": "/netflix-homepage/static/js/787.caaea2da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f79a0182.css",
+    "static/js/main.c4bbbd96.js"
+  ]
+}
