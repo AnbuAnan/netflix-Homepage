@@ -2,7 +2,8 @@
   "name": "task",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://AnbuAnan.github.io/netflix-clone",
+  "homepage": "https://AnbuAnan.github.io/netflix-homepage/",
+  
   "dependencies": {
     "@mui/icons-material": "^5.14.18",
     "@testing-library/jest-dom": "^5.17.0",

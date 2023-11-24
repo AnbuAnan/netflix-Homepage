@@ -59,11 +59,45 @@
     padding: 10px;
     cursor: pointer;
 }
-    &:hover{
-    .option{
+    &:hover  .option{
         display: flex;
         flex-direction: column;
         position: absolute;
     }
-}
+
+    @media screen and (max-width: 760px) {
+        
+        .container {
+            padding: 0 20px; /* Adjust padding for smaller screens */
+        }
+    
+        .container .left .img {
+            margin-right: 20px; /* Adjust margin for smaller screens */
+        }
+    
+        .container .left span {
+            margin-left: 10px;
+            margin-right: 10px;
+        }
+    
+        .container .right img {
+            margin: 0 10px; /* Adjust margin for smaller screens */
+        }
+    
+        .profile .option {
+            position: relative; /* Change position for smaller screens */
+            top: auto;
+            left: auto;
+            display: flex;
+            flex-direction: column;
+            background-color: black;
+            border-radius: 5px;
+        }
+    
+        .profile:hover .option {
+            position: static; /* Change position for smaller screens */
+            display: flex;
+            flex-direction: column;
+        }
+    }
 }

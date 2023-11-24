@@ -5,10 +5,8 @@ import './footer.css'
 export default function Footer() {
   return (
     <div className="main-footer" >
-        <div className="container" style={{position:'relative'}}>
-                        {/* <div className="row">
-            <p><FaFacebookSquare/> <span style={{marginLeft:10}}></span><FaInstagram/> <span style={{marginLeft:10}}></span><FaTwitter/> <span style={{marginLeft:10}}></span><FaYoutube/> </p>
-                </div> */}
+        <div className="containerf" style={{position:'relative',display:'flex'}}>
+                
                 <div className="row" >
                     <p><FaFacebookSquare/> <span style={{marginLeft:10}}></span><FaInstagram/> <span style={{marginLeft:10}}></span><FaTwitter/> <span style={{marginLeft:10}}></span><FaYoutube/> </p>
                     </div>

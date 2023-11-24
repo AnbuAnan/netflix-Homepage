@@ -1,10 +1,10 @@
 import './navbar.css'
-import NetflixLogoSvg from 'C:/Users/Dell/OneDrive/Desktop/react js/task/src/assets/NetflixLogoSvg.png';
-import Search from 'C:/Users/Dell/OneDrive/Desktop/react js/task/src/assets/Search.png'
-import GiftBox from 'C:/Users/Dell/OneDrive/Desktop/react js/task/src/assets/GiftBox.png'
-import NotificationBell from 'C:/Users/Dell/OneDrive/Desktop/react js/task/src/assets/NotificationBell.png'
-import ProfileIMG from 'C:/Users/Dell/OneDrive/Desktop/react js/task/src/assets/ProfileIMG.png'
-import DownArrow from 'C:/Users/Dell/OneDrive/Desktop/react js/task/src/assets/DownArrow.png'
+import NetflixLogoSvg from './images/NetflixLogoSvg.png';
+import Search from './images/Search.png'
+import GiftBox from './images/GiftBox.png'
+import NotificationBell from './images/NotificationBell.png'
+import ProfileIMG from './images/ProfileIMG.png'
+import DownArrow from './images/DownArrow.png'
 import { useState } from "react";
 import React from 'react';
 

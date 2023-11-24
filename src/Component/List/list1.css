@@ -5,3 +5,18 @@
     text-align: left;
 }
 
+@media screen and (max-width: 760px) {
+  .list1 {
+    display: none;
+      margin-left: 0px; /* Adjust margin for smaller screens */
+      margin-top: 0px; /* Adjust margin for smaller screens */
+  }
+
+  .listTitle1 {
+    
+      font-size: 16px; /* Adjust font size for smaller screens */
+      margin-left: 10px; /* Adjust margin for smaller screens */
+  }
+
+ 
+}

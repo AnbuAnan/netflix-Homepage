@@ -4,3 +4,26 @@
     margin-top: 15px;
     text-align: left;
 }
+.container2 img {
+  display: flex;
+  flex-wrap: nowrap;
+  
+  justify-content: space-between;
+   /* Adjust the right margin for space between images */
+}
+@media screen and (max-width:760px){
+    .list2{
+      width: 80%;
+      margin: 2%;
+      position: relative;
+      left: 88px;
+      margin-top: 370px;
+    }
+    .container2 >img{
+      
+      overflow-x: auto;
+  
+    }
+    
+  }
+  

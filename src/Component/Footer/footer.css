@@ -1,17 +1,10 @@
-.main-footer{
-    
-    
-        
-        
-        
-    }
+
 
 .row{
     position: absolute;
+    margin-top: 40px;
     margin-left: 230px;
-    /* display: flex;
-    margin-top: 50px;
-    margin-left: 225px; */
+    
     
 }
 .row p{
@@ -21,16 +14,19 @@
 .tl{
     
     display: flex;
+    
+
     position: relative;
     top: 80px;
     margin-left: 120px;
     
 }
 
-.list ul li{
+   
+.list  li{
     
     color: gray;
-    list-style: none;
+    list-style-type: none;
     justify-content: space-between;  
     padding: 5px;  
 }
@@ -39,7 +35,7 @@
    position: relative;
     margin-top:  50px;
     text-align: left;
-    margin-left: 280px;
+    margin-left: 230px;
     color: gray;
     
 }
@@ -49,3 +45,33 @@
     border: 1px solid gray;
     
 }
+@media screen and (max-width:760px){
+    
+        .t1 .list {
+           
+           display: flex;
+           flex-direction: column;
+    
+        }
+       
+       
+    .containerf{
+        
+        position: relative;
+        margin-top: 1000px; 
+    }
+    .row{
+        position: absolute;
+        margin-top: -900px;
+        margin-left: 140px;
+    }
+    
+    
+    
+    .bt{
+        margin-top: 0px;
+        margin-left: 150px;
+    }      
+  
+}
+  

@@ -1,8 +1,8 @@
 import './featured.css'
 import { IoIosInformationCircleOutline } from "react-icons/io";
 import { FaPlay, } from 'react-icons/fa'
-import Title from 'C:/Users/Dell/OneDrive/Desktop/react js/task/src/assets/Title.png'
-import Netflix_Symbol_RGB from 'C:/Users/Dell/OneDrive/Desktop/react js/task/src/assets/Netflix_Symbol_RGB.png'
+import Title from './Title.png'
+import Netflix_Symbol_RGB from './Netflix_Symbol_RGB.png'
 
 
 export default function Featured() {

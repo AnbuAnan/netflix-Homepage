@@ -13,11 +13,34 @@
   margin-bottom: 50px; /* Add some space below the heading */
 } 
 
-.container {
+.container0 img {
   display: flex;
-  
-  justify-content: space-between;
-   /* Adjust the right margin for space between images */
+  flex-wrap: nowrap;
+  margin-top: 5px;
+  gap: 25px;
+     /* Adjust the right margin for space between images */
 }
 
+@media screen and (max-width:760px) {
+  
+  .list {
+    position: absolute;
+    padding: 25px;
+    margin-left: 70px;
+    text-align: left;
+    width: 100%;
+    margin-top: -400px;
+  }  
+  .listTitle{
+    bottom: 30px;
+    font-size: 5px;
+  }
 
+  
+  .container0 >img{
+    margin-left: 50px;
+    width: 100%;
+    overflow-x: auto;
+
+  }
+}

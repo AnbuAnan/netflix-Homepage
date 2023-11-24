@@ -5,3 +5,16 @@
     margin-top: 15px;
     text-align: left;
 }
+
+@media  (max-width:760px){
+    .list3{
+      
+      position: relative;
+      left: 50px;
+    }
+    .container3{
+      overflow-x: auto;
+    }
+    
+  }
+  
