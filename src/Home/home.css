@@ -3,6 +3,8 @@
     color: white;
     overflow: hidden;
 }
+
+/* Media Queries */
 @media screen and (max-width:60px)
 		{
 					
